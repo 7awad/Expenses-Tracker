@@ -1,0 +1,3 @@
+food 10.00
+water 20.00
+games 100.00
