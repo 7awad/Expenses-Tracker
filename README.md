@@ -1,6 +1,7 @@
 ### Personal Expenses Tracker
 
 This C++ program serves as a personal expenses tracker. It allows users to manage their expenses through a simple console-based interface. The program enables users to add, view, save, and reset expenses. Expenses are stored in a file for future reference.
+![expenses](https://github.com/7awad/Expenses-Tracker/assets/123418692/c0998f21-7d1d-4531-ae58-5cc724cc7574)
 
 #### Features
 
